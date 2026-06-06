@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Tututuuu.aternos.me",
+    "port": 15455,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 600,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "i'm tuanmap",
         "I like to play Minecraft!"
       ]
     },
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1512838916095475883/2kaxADMnEA05b4ZmTb0QjpGAkrfn8PqhRF6KlIi1CIYFAURvHd1SfsKHtnNMMbjX78j8",
     "events": {
       "connect": true,
       "disconnect": true,
